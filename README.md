@@ -42,5 +42,5 @@ You can order PCBs easily here: https://www.pcbway.com/project/shareproject/...
 
 ## A second I/O port
 
-The AY-3-8910 offers two I/O ports instead of the one on the AY-3-8912. The additional data pins for the scond I/O port can be accessed on the PCB. For accessing the I/O port refer to the AY-3-8910 data sheet.
+The AY-3-8910 offers two I/O ports instead of the one on the AY-3-8912. The additional data pins for the second I/O port can be accessed on the PCB. For accessing the I/O port refer to the AY-3-8910 data sheet.
 
