@@ -35,8 +35,8 @@ You can order PCBs easily here: https://www.pcbway.com/project/shareproject/...
 
 ### Build
 
-1) start with the pin headers from below the PCB. Some pin headers need to be adjusted slightly as usually one side of the pin headers is too short and the other too long. You can move the plastic bar with e.g. pliers easily. Move them until the plastic bar almost reaches the mid of the pin header. One side should be slightly shorter than the other side. The short side will be the one that is later plugged into the CPU socket on the motherboard.
-2) only if required: add the resistor array to the PCB. Pay close attention to the orientation of the resistor array. The little dot on the resistor array must be aligned with the rectangular soldering point on the PCB. 
+1) start with the pin headers on bottom of the PCB. Some pin headers need to be adjusted slightly as usually one side of the pin headers is too short and the other too long. You can move the plastic bar with e.g. pliers easily. Move them until the plastic bar almost reaches the mid of the pin header. One side should be slightly shorter than the other side. The short side will be the one that is later plugged into the CPU socket on the motherboard.
+2) only if required: add the resistor array on bottom of the PCB. Pay close attention to the orientation of the resistor array. The little dot on the resistor array must be aligned with the rectangular soldering point on the PCB. 
 3) 464/664: from top, add the socket. Put the AY-3-8910 into the socket<br>6128: solder the AY-3-8910 directly to the PCB (space constraints in the 6128 don't allow to add a socket)
 4) Follow this guide on the CPC Wiki on how to replace ICs on the CPC mainboard: https://www.cpcwiki.eu/index.php/IC_Repair
 
