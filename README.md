@@ -14,10 +14,26 @@ The adapter works in all 3 CPC models (464,664 and 6128). The PCB layout was def
 The AY soundchips with the suffix A in their model number slightly differ from their counterparts without the A suffix: The AY-3-8912 as used in the CPC does have internal pull-up resistors on its datalines, 
 the counterparts with the A suffix are lacking this internal pull-up. To use the -A variants in the CPC it's required to add pull-up resistors to the data lines. 
 
+## License
+
+It is released under the CC BY-NC-ND 4.0 license with the following enhancements: The expansion and all resources are free to use for personal use. Selling this PCB for a profit is strongly forbidden, however it may be used in commercial repairs as long as the PCB itself won't be charged for (you may charge for the repair and the other materials of course). 
+
 ## Building a AY-3-8912 replacement
 
 For a full assembly you need 
 - basic soldering skills - as long as you can solder normal through hole components reliably, you will be fine.
+
+### Disclaimer
+
+> [!CAUTION]
+>**USE AT YOUR OWN RISK.**
+>
+>This is a hobby project, I am a hobbyist and no engineer. There is always the risk that the use of this adapter, the different components used or the repair itself can cause harm to your CPC. 
+>Although I have tested this adapter on several CPCs for many hours with many other expansions and lots of software, there is no guarantee that it will properly work under all circumstances in your CPC.
+>
+>Especially if you are building this for others (commercially or not) make sure to make your own intense tests to guarantee this adapter works as expected before handing over to the recipients.  
+>
+>**USE AT YOUR OWN RISK.** 
 
 ### Bill of Materials
 
@@ -31,7 +47,7 @@ For a full assembly you need
 
 ### PCB
 
-You can order PCBs easily here: https://www.pcbway.com/project/shareproject/...
+You can order PCBs easily here: [https://www.pcbway.com/project/shareproject/...](https://www.pcbway.com/project/shareproject/Amstrad_CPC_AY_3_8910_adapter_2887f427.html)
 
 ### Build
 
