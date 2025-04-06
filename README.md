@@ -41,9 +41,9 @@ For a full assembly you need
 | --- | --- |
 | PCB | 1 |
 | AY-3-8910(A)<br><sup>or compatible</sup>| 1 |
-| IC socket 32pin<br><sup>(not on 6128!)</sup> | 1 |
+| IC socket 28pin<br><sup>(not on 6128!)</sup> | 1 |
 | Resistor Array 10k - 9 pins<br><sup>only needed for AY-3-8910A</sup> | 1 |
-| Pin Header 1x16 | 2 | 
+| Pin Header 1x14 | 2 | 
 
 ### PCB
 
