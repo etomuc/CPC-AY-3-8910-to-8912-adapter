@@ -2,7 +2,7 @@
 
 The sound chip AY-3-8912 as used in the Amstrad CPC is hard to find and often quite expensive. With this adapter it is possible to use the MUCH cheaper and easily available AY-3-8210A sound chip in the Amstrad CPC.
 
-<img src="/pictures/PCB.jpg" width="500"/>
+<img src="/pictures/PCB.jpg" width="500"/><img src="/pictures/ay8910.jpg" width="500"/>
 
 The adapter works in all 3 CPC models (464,664 and 6128). The PCB layout was defined by the limiting space in the CPC 6128 but it will of course perfectly fit into the 464 and 664 too.
 
