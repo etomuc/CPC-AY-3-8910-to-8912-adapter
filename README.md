@@ -16,7 +16,7 @@ the counterparts with the A suffix are lacking this internal pull-up. To use the
 
 ## License
 
-It is released under the CC BY-NC-ND 4.0 license with the following enhancements: The expansion and all resources are free to use for personal use. Selling this PCB for a profit is strongly forbidden, however it may be used in commercial repairs as long as the PCB itself won't be charged for (you may charge for the repair and the other materials of course). 
+The project is released under the CC BY-NC-ND 4.0 license with the following enhancements: The expansion and all resources are free to use for personal use. Selling this PCB in any form (alone, as a DIY bundle or fully built) for a profit is strongly forbidden, however it may be used in commercial repairs as long as the PCB itself won't be charged for (you may charge for the repair and the other materials of course). For an exception please contact me.
 
 ## Building a AY-3-8912 replacement
 
