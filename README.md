@@ -11,8 +11,8 @@ The adapter works in all 3 CPC models (464,664 and 6128). The PCB layout was def
 
 ## AY-3-8910 vs AY-3-8910A
 
-The AY soundchips with the suffix A in their model number slightly differ from their counterparts without the A suffix: The AY-3-8912 as used in the CPC does have internal pull-up resistors on its datalines, 
-the counterparts with the A suffix are lacking this internal pull-up. To use the -A variants in the CPC it's required to add pull-up resistors to the data lines. 
+The AY soundchips with the suffix A in their model number slightly differ from their counterparts without the A suffix: The AY-3-8912 as used in the CPC does have internal pull-up resistors on its I/O pins, 
+the counterparts with the A suffix are lacking this internal pull-up. To use the -A variants in the CPC it's required to add pull-up resistors to the I/O pins. 
 
 ## License
 
