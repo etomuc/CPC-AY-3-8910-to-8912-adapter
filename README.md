@@ -42,9 +42,10 @@ For a full assembly you need
 | PCB | 1 |
 | AY-3-8910(A)<br><sup>or compatible</sup>| 1 |
 | IC socket 28pin<br><sup>(not on 6128!)</sup> | 1 |
-| Resistor Array 10k - 9 pins<br><sup>only needed for AY-3-8910A</sup> | 1 |
+| Resistor Array 2k2<sup>*</sup> - 9 pins<br><sup>only needed for AY-3-8910A</sup> | 1 |
 | Pin Header 1x14 | 2 | 
 
+<sup>*: up to 10k should also work</sup> 
 ### PCB
 
 You can order PCBs easily here: [https://www.pcbway.com/project/shareproject/...](https://www.pcbway.com/project/shareproject/Amstrad_CPC_AY_3_8910_adapter_2887f427.html)
